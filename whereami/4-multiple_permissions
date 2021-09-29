@@ -1,0 +1,6 @@
+#!/bin/sh
+
+#That script creates an empty file named hello and add permissions -rwxr-xr--
+touch hello
+chmod 754 hello
+
