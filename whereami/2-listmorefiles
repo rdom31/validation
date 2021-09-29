@@ -1,3 +1,2 @@
-#!/bin/sh
+ #!/usr/bin/env -S -P/usr/local/bin:/usr/bin:/Users/ralphdominique sh
 ls -la
-
