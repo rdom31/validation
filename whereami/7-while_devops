@@ -1,0 +1,8 @@
+#!/bin/sh
+
+number=0
+while [ "$number" -lt 10 ]; do
+    echo "DevOps"
+    number=$((number + 1))
+done
+
